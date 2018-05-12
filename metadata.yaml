@@ -1,0 +1,31 @@
+_repo: The-Beach-of-Dreams--A-Romance_20084
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stacpoole, H. De Vere (Henry De Vere)
+    alias: Stacpoole, Henry De Vere
+    birthdate: 1863
+    deathdate: 1951
+    gutenberg_agent_id: '219'
+    url: http://www.gutenberg.org/2009/agents/219
+    wikipedia: http://en.wikipedia.org/wiki/Henry_De_Vere_Stacpoole
+description: ''
+gutenberg_issued: '2006-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20084'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcsh 'Shipwreck survival -- Fiction'
+- !lcsh 'Kerguelen Islands -- Fiction'
+- !lcsh 'Castaways -- Fiction'
+- !lcc 'PR'
+title: 'The Beach of Dreams: A Romance'
+url: http://www.gutenberg.org/ebooks/20084
